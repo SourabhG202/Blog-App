@@ -1,7 +1,4 @@
-# Blogging Website Version 2.0
-*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Prashant0664/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
-
-For older version checkout the branch named *version1*
+# Blogging Website Version
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -24,19 +21,12 @@ Welcome to the Blogging Website project! This is a web application built using t
 ---
 
 ## New Features:
-🔥 **Like:** Users can now like Blogs and can see their liked blogs in profile.
-🔥 **Filter:** User can now filter the content from dropdown menu below Navbar.
-🔥 **Share:** User can now share blogs on social media using share button.
-🔥 **Use of Params:** Blog Article now use params decreasing the coupling and increasing speed.
-🔥 **Optimised:** More optimised than ever.
-🔥 **User Frinedly:** More user friendly tha ever.
-
----
-
-## Demo Link: 
-
-Full Demo Video Drive link: [https://drive.google.com/file/d/1zPDw9Q28q-86CVlG62k5363gzIeGL7YX/view?usp=sharing
-](https://drive.google.com/file/d/1As5DVfGSCfBOT9dqbX7MIYm69XllfGra/view?usp=sharing)
+ **Like:** Users can now like Blogs and can see their liked blogs in profile.
+ **Filter:** User can now filter the content from dropdown menu below Navbar.
+ **Share:** User can now share blogs on social media using share button.
+ **Use of Params:** Blog Article now use params decreasing the coupling and increasing speed.
+ **Optimised:** More optimised than ever.
+ **User Frinedly:** More user friendly tha ever.
 
 ---
 
@@ -74,9 +64,6 @@ The Blogging Website is built using the following technologies:
   💫 React.js: A JavaScript library for building the user interface.<br/>
   💫 Node.js: A JavaScript runtime used for server-side code execution.<br/>
 
-- **Additional Technologies:**<br/>
-  💫 Redux: Used for state management within the React application.<br/>
-  💫 Nodemailer: Used for email verification and sending email notifications.<br/>
 
 ---
 
@@ -89,10 +76,9 @@ Before you begin, make sure you have the following installed on your system:
 - Git
 
 ### Installation
-(Request: **Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>)
 1. Clone this GitHub repository to your local machine:
    ```
-   git clone https://github.com/Prashant0664/All-Blogs-V2.git
+   git clone (https://github.com/SourabhG202/Blog-App.git)
    ```
 
 2. Change into the project directory:
@@ -137,23 +123,3 @@ You can now use the Blogging Website to create, like, save, share, and discover 
 
 ---
 
-## Contributing
-**Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>
-Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear and descriptive commit messages. (Installation and Setup has been Explained in [Getting-Started](#getting-started) )
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-<br/>
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### *Note: For any doubt or question you can open an issue. I will reply ASAP.*
-
-Thank you for using and contributing to the Blogging Website project! If you have any questions or need assistance, please don't hesitate to reach out to the maintainers.
